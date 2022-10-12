@@ -2,10 +2,12 @@
 
 1. What is the Class C address range in decimal and in binary?
 
-    |Class C|Min|Max|
+    |Format|1st Octet Min|1st Octet Max|
     |-|-|-|
     |Decimal|192|223|
     |Binary|**110**00000|**110**11111|
+
+    Class C range range 192.0.0.1 - 223.255.255.254
 ---
 
 2. What layer of the DoD model is equivalent to the Transport layer of the OSI model?
