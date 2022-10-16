@@ -3,7 +3,7 @@
 The four layers of the DoD model are Process/Application, Host-to-Host, Internet annd Network Access. Identify the layer of the DoD model on which each of these protocols operates.
 
 1. Internet Protocol (IP)  
-    *Host-to-Host*
+    *Internet*
 2. Telnet  
     *Process/Application*
 3. FTP  
@@ -15,10 +15,10 @@ The four layers of the DoD model are Process/Application, Host-to-Host, Internet
 6. Address Resolution Protocol (ARP)  
     *Internet*
 7. DHCP/BootP  
-    *Host-to-Host*
+    *Process/Application*
 8. Transmission Control Protocol  
-   *Host-to-Host*
-9. X Windows
+    *Host-to-Host*
+9. X Windows  
     *Process/Application*
 10. User Datagram Protocol (UDP)  
     *Host-to-Host*
