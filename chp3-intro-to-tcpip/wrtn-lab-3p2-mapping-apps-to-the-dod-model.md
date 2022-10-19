@@ -29,7 +29,7 @@ The four layers of the DoD model are Process/Application, Host-to-Host, Internet
 13. Reverse Address Resolution Protocol (RARP)  
     *Internet*
 14. Proxy ARP  
-    ???
+    *Internet*
 15. TFTP  
     *Process/Application*
 16. SMTP  
