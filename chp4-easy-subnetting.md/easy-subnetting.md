@@ -36,4 +36,13 @@
     |Last host|62|126|190|254|
     |**Broadcast**|**63**|**127**|**191**|**255**|
 
+### Class C Subnets
 
+|CIDR notation|Mask|Bits|Block size|Subnets|Host|
+|-|-|-|-|-|-|
+|/25|128|1 bit on and 7 bits off|128|0 and 128|2 subnets, each with 126 hosts|
+|/26|192|2 bits on and 6 bits off|64|0, 64, 128 and 192|4 subnets, each with 62 hosts|
+|/27|224|3 bits on and 5 bits off|32|0, 32, 64, 96, 128, 160, 192 and 224| 8 subnets, each with 30 hosts|
+|/28|240|4 bits on and 4 bits off|16|0, 16, 32, 48, 64, 80, 96, 112, 128, 144, 160, 176, 192, 208, 224 and 240|16 subnets, each with 14 hosts|
+|/29|248|5 bits on and 3 bits off|8|0, 8, 16, 24, 32, 40, 48, etc.|32 subnets, each with 6 hosts|
+|/30|252|6 bits on 2 bits off|4|0, 4, 8, 12, 16, 20, 24, etc.|64 subnets, each with 2 hosts|
