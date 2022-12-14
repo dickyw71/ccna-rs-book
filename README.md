@@ -6,3 +6,4 @@
 
 ### Chapter 4 - Easy Subnetting
 - [Chapter notes](./chp4-easy-subnetting.md/easy-subnetting.md)
+- [Written lab 4.1: Subnet practice #1](./chp4-easy-subnetting.md/wrtn-lab-4p1-subnet-practice-1.md)
