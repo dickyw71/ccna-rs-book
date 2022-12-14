@@ -80,7 +80,7 @@ Write the subnet, broadcast address, and a valid host range for question 1 throu
 
 8. What is the broadcast address of 192.168.192.10/29?
 
-    > Broadcast address 192.168.192.23
+    > Broadcast address 192.168.192.15
 
 9. How many hosts are available with a Class C /29 mask?
 
@@ -92,5 +92,4 @@ Write the subnet, broadcast address, and a valid host range for question 1 throu
 |-|-|-|
 |255.255.254.0|2|0.0, 2.0, 4.0, 6.0, 8.0, etc.|
 
-    > Subnet is 10.16.2.0
-
+> Subnet is 10.16.2.0
