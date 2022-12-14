@@ -38,6 +38,7 @@
 
 ### Class C Subnets
 
+#### Try to memorise the table below.
 |CIDR notation|Mask|Bits|Block size|Subnets|Host|
 |-|-|-|-|-|-|
 |/25|128|1 bit on and 7 bits off|128|0 and 128|2 subnets, each with 126 hosts|
@@ -46,3 +47,26 @@
 |/28|240|4 bits on and 4 bits off|16|0, 16, 32, 48, 64, 80, 96, 112, 128, 144, 160, 176, 192, 208, 224 and 240|16 subnets, each with 14 hosts|
 |/29|248|5 bits on and 3 bits off|8|0, 8, 16, 24, 32, 40, 48, etc.|32 subnets, each with 6 hosts|
 |/30|252|6 bits on 2 bits off|4|0, 4, 8, 12, 16, 20, 24, etc.|64 subnets, each with 2 hosts|
+
+### Subnetting ClassB Addresses
+
+#### Class B subnet masks
+
+|Subnet Mask|CIDR notation|
+|-|-|
+|255.255.0.0|(/16)|
+|255.255.128.0|(/17)|
+|255.255.192.0|(/18)|
+|255.255.224.0|(/19)|
+|255.255.240.0|(/20)|
+|255.255.248.0|(/21)|
+|255.255.252.0|(/22)|
+|255.255.254.0|(/23)|
+|255.255.255.0|(/24)|
+|255.255.255.128|(/25)|
+|255.255.255.192|(/26)|
+|255.255.255.224|(/27)|
+|255.255.255.240|(/28)|
+|255.255.255.248|(/29)|
+|255.255.255.252|(/30)|
+
