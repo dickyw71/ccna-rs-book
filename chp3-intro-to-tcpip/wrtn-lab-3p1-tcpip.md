@@ -59,9 +59,9 @@
     > Class B = **172.16.0.0 - 172.31.255.255**
 ---
 
-9. What is the Class C private Ip address space?
+9. What is the Class C private IP address space?
 
-    > Class C = **192.168.0.0 - 192.168.0.0**
+    > Class C = **192.168.0.0 - 192.168.255.255**
 ---
 
 10. What are all the available characters that you can use in hexadecimal addressing?
