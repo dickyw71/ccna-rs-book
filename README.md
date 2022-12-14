@@ -5,5 +5,7 @@
 - [Written lab 3.2: Mapping applications to the DoD model](./chp3-intro-to-tcpip/wrtn-lab-3p2-mapping-apps-to-the-dod-model.md)
 
 ### Chapter 4 - Easy Subnetting
-- [Chapter notes](./chp4-easy-subnetting.md/easy-subnetting.md)
-- [Written lab 4.1: Subnet practice #1](./chp4-easy-subnetting.md/wrtn-lab-4p1-subnet-practice-1.md)
+- [Chapter notes](./chp4-easy-subnetting/easy-subnetting.md)
+- [Written lab 4.1: Written Subnet Practice #1](./chp4-easy-subnetting.md/wrtn-lab-4p1-written-subnet-practice-1.md)
+- [Written lab 4.2: Written Subnet Practice #2](./chp4-easy-subnetting/wrtn-lab-4p2-written-subnet-practice-2.md)
+- [Written lab 4.3: Written Subnet Practice #3](./chp4-easy-subnetting/wrtn-lab-4p3-written-subnet-practice-3.md)
