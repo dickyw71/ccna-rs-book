@@ -9,3 +9,4 @@
 - [Written lab 4.1: Written Subnet Practice #1](./chp4-easy-subnetting.md/wrtn-lab-4p1-written-subnet-practice-1.md)
 - [Written lab 4.2: Written Subnet Practice #2](./chp4-easy-subnetting/wrtn-lab-4p2-written-subnet-practice-2.md)
 - [Written lab 4.3: Written Subnet Practice #3](./chp4-easy-subnetting/wrtn-lab-4p3-written-subnet-practice-3.md)
+- [Review Questions](./chp4-easy-subnetting/review-questions.md)
