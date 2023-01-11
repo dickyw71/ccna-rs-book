@@ -155,9 +155,35 @@ E. /31
     Subnets: .0, .64, .128, .192  
 
 14. If an Ethernet port on a router were assigned an IP address of 172.16.112.1/25, what would be the valid subnet address of this interface?  
-**A.** 172.16.112.0  
+**A. 172.16.112.0 (My answer)**  
 **B.** 172.16.0.0  
 **C.** 172.16.96.0  
 **D.** 172.16.255.0  
 **E.** 172.16.128.0  
 
+    /25  
+    Subnet mask: 255.255.255.128  
+    Block size: 256 - 128 = 128  
+    Subnets: .0, .128
+    Subnetwork: 172.16.112.0  
+
+15. Using the following illustration, what would be the IP address of E0 if you were using the eighth subnet? The network ID is 192.168.10.0/28 and you need to use the last available IP address in the range. The zero subnet should not be considered valid for this question.  
+**A. 192.168.10.142 (My answer)**  
+**B.** 192.168.10.66  
+**C.** 192.168.100.254  
+**D.** 192.168.10.143  
+**E.** 192.168.10.126  
+
+    /28  
+    Subnet mask: 255.255.255.240  
+    Block size: 256 - 240 = 16  
+    |#|1|2|3|4|5|6|7|8|9|10|
+    |-|-|-|-|-|-|-|-|-|-|-|
+    |**Subnet**|.16|.32|.48|.64|.80|.96|.112|**.128**|.144|.160|
+
+    Subnetwork: 192.168.10.128  
+    First host: 192.168.10.129  
+    **Last host: 192.168.10.142**  
+    Broadcast: 192.168.10.143
+
+16. 
