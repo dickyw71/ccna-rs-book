@@ -168,22 +168,29 @@ E. /31
     Subnetwork: 172.16.112.0  
 
 15. Using the following illustration, what would be the IP address of E0 if you were using the eighth subnet? The network ID is 192.168.10.0/28 and you need to use the last available IP address in the range. The zero subnet should not be considered valid for this question.  
+
+    ![Network diagrom](./ccna-book-chp4-rq-15.png)
 **A. 192.168.10.142 (My answer)**  
 **B.** 192.168.10.66  
 **C.** 192.168.100.254  
 **D.** 192.168.10.143  
 **E.** 192.168.10.126  
 
-    /28  
-    Subnet mask: 255.255.255.240  
-    Block size: 256 - 240 = 16  
-    |#|1|2|3|4|5|6|7|8|9|10|
-    |-|-|-|-|-|-|-|-|-|-|-|
-    |**Subnet**|.16|.32|.48|.64|.80|.96|.112|**.128**|.144|.160|
+/28  
+Subnet mask: 255.255.255.240  
+Block size: 256 - 240 = 16  
 
-    Subnetwork: 192.168.10.128  
-    First host: 192.168.10.129  
-    **Last host: 192.168.10.142**  
-    Broadcast: 192.168.10.143
+|#|1|2|3|4|5|6|7|8|9|10|
+|-|-|-|-|-|-|-|-|-|-|-|
+|**Subnet**|.16|.32|.48|.64|.80|.96|.112|**.128**|.144|.160|
 
-16. 
+Subnetwork: 192.168.10.128  
+First host: 192.168.10.129  
+**Last host: 192.168.10.142**  
+Broadcast: 192.168.10.143
+
+16. Using the illustration from the previous question, what would be the IP address of S0 if you were using the first subnet? The network ID is 192.168.10.0/28 and you need to use the last available IP address in the range. Again, the zero subnet should not be considered valid for this question.  
+**A.** 192.169.10.24  
+**B.** 192.168.10.62  
+**C. 192.168.10.30 (My answer)**  
+**D.** 192.168.10.127  
