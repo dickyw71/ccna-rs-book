@@ -194,3 +194,22 @@ Broadcast: 192.168.10.143
 **B.** 192.168.10.62  
 **C. 192.168.10.30 (My answer)**  
 **D.** 192.168.10.127  
+
+17. Which configuration command must be in effect to allow the use of 8 subnets if the Class C subnet mask is 255.255.255.224?  
+**A.** `Router(config)#`**`ip classless`**  
+**B.** `Router(config)#`**`ip version G`**  
+**C.** `Router(config)#`**`no ip classfull`**  
+**D.** `Router(config)#`**`ip unnumbered`**  
+**E.** `Router(config)#`**`ip subnet-zero` (My answer)**  
+**F.** `Router(config)#`**`ip all-nets`**  
+Class C .224 = /27  
+Block size: 256 - 224 = 32   
+Subnets: .0, .32 .64, .96, .128, .160, .192, .224 (8 off)  
+
+18. You have a network with a subnet of 172.16.17.0/22. Which is the valid host address?  
+**A.** 172.16.17.1 255.255.255.252  
+**B.** 172.16.0.1 255.255.240.0  
+**C.** 172.16.20.1 255.255.254.0  
+**D.** 172.16.16.1 255.255.255.240  
+**E.** 172.16.18.1 255.255.252.0  
+**F.** 172.16.0.1 255.255.255.0  
