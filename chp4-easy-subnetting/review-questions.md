@@ -211,5 +211,20 @@ Subnets: .0, .32 .64, .96, .128, .160, .192, .224 (8 off)
 **B.** 172.16.0.1 255.255.240.0  
 **C.** 172.16.20.1 255.255.254.0  
 **D.** 172.16.16.1 255.255.255.240  
-**E.** 172.16.18.1 255.255.252.0  
+**E.** **172.16.18.1 255.255.252.0 (My answer)**  
 **F.** 172.16.0.1 255.255.255.0  
+
+19. Your router has the following IP address on Ethernet0: 172.16.2.1/23. Which of the following can be valid host IDs on the LAN interface attached to the router? (Choose two.)  
+**A.** 172.16.0.5  
+**B.** 172.16.1.100  
+**C.** 172.16.1.198  
+**D.** **172.16.2.255 (My anwser 1)**  
+**E.** **172.16.3.0 (My answer 2)**  
+**F.** 172.16.3.255  
+
+20. To test the IP stack on your local host, which IP address would you ping?  
+**A.** 172.0.0.1  
+**B.** 1.0.0.127  
+**C.** **127.0.0.1 (My answer)**  
+**D.** 127.255.255.255  
+**E.** 255.255.255.255  
