@@ -68,3 +68,10 @@
 	**B.**	The default gateway address is incorrect on the station.  
 	**C. 	The IP address on the station is incorrect. (My answer)**  
 	**D.**	The router is malfunctioning.  
+
+7.	If Host A is configured with an incorrect default gateway and all other computers and the router are known to be configured correctly, which of the following statements is TRUE?  
+
+	A.	Host A cannot communicate with the router. 
+	B.	Host A can communicate with other hosts in the same subnet.
+	C. 	Host A can communicate with hosts in other subnets.
+	D.	Host A can communicate with no other systems.
